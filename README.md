@@ -3,9 +3,15 @@
 
 ![github](github_image.png)
 
-- 🌱 I’m currently learning **web security and ai security**
 
-- 💬 Ask me about **python, web infrastructure and architecture, mysql, web security**
+🔐 I’m interested in **Web Penetration Testing** and **AI Red Teaming**  
+🐍 I work with **Python**, **PowerShell**, and **Bash**  
+🛠️ I use tools like **Burp Suite** and **Metasploit**  
+🗄️ I’m familiar with **MySQL** and web application backends  
+📡 Currently learning **basic RF concepts**  
+💻 Comfortable working on **Linux** and **Windows** environments  
+
+📚 Focused on learning, practicing, and building real-world security skills.
 
 - 📫 How to reach me **johnreynald332@gmail.
 com**
@@ -25,6 +31,11 @@ com**
 ##### Platform
 ![Platform](https://go-skill-icons.vercel.app/api/icons?i=hackthebox&theme=light)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Johnreynald332&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Johnreynald332&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnreynald332&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
