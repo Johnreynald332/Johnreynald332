@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm john</h1>
 <h3 align="center">Web security and WEB3 enthusiast</h3>
 
-![github](github_image.png)
+![github](github-header-banner.png)
 
 
 🔐 I’m interested in **Web Penetration Testing** and **WEB3**  
