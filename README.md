@@ -4,7 +4,7 @@
 ![github](github_image.png)
 
 
-🔐 I’m interested in **Web Penetration Testing** and **AI Red Teaming**  
+🔐 I’m interested in **Web Penetration Testing** and **WEB3**  
 🐍 I work with **Python**, **PowerShell**, and **Bash**  
 🛠️ I use tools like **Burp Suite** and **Metasploit**  
 🗄️ I’m familiar with **MySQL** and web application backends  
